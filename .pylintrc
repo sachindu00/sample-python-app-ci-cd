@@ -1,0 +1,5 @@
+[MASTER]
+disable=
+    C0103,
+    R0903,
+load-plugins=pylint.extensions.bad_builtin
